@@ -1,0 +1,7 @@
+version: '3'
+services:
+  watchdog:
+    build: .
+    restart: unless-stopped
+    env_file:
+      - .env
