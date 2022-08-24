@@ -1,2 +1,2 @@
-git+https://github.com/cccaballero/nautapy.git@allow-specifying-timeout-for-is_connected-function
+git+https://github.com/atscub/nautapy.git@e483cbaa940bcbe3737a959e401fd26463c31381
 requests
